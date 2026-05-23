@@ -26,13 +26,13 @@ Setup & Installation
 python -m venv .venv
 
 2. Activate virtual environment
-# Windows (PowerShell)
+ Windows (PowerShell)
 .venv\Scripts\Activate.ps1
 
-# Windows (Git Bash)
+ Windows (Git Bash)
 source .venv/Scripts/activate
 
-# Linux/macOS
+Linux/macOS
 source .venv/bin/activate
 
 3. Install dependencies
